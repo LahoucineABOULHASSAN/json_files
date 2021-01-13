@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Nicola Chodan",
-    "image": "https://images.unsplash.com/photo-1588186064732-a36fbfdc2323?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=333&q=80",
+    "image": "https://images.unsplash.com/photo-1607990283143-e81e7a2c9349?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=725&q=80",
     "desc": "French Teacher",
     "medias": [
       { "id": 1, "url": "https://www.reddit.com", "icon": "reddit" },
@@ -17,28 +17,31 @@
     "desc": "web development",
     "medias": [
       { "id": 1, "url": "https://www.twitter.com", "icon": "twitter" },
-      { "id": 2, "url": "https://www.linkedin.com", "icon": "linkedin" }
+      { "id": 2, "url": "https://www.linkedin.com", "icon": "linkedin" },
+      { "id": 3, "url": "https://www.reddit.com", "icon": "reddit" }
     ]
   },
   {
     "id": 3,
     "name": "Jessie Catarina",
-    "image": "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
+    "image": "https://images.unsplash.com/photo-1551069613-1904dbdcda11?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=356&q=80",
     "desc": "web development",
     "medias": [
       { "id": 1, "url": "https://www.facebook.com", "icon": "facebook" },
       { "id": 2, "url": "https://www.twitter.com", "icon": "twitter" },
-      { "id": 3, "url": "https://www.instagram.com", "icon": "instagram" }
+      { "id": 3, "url": "https://www.reddit.com", "icon": "reddit" }
     ]
   },
   {
     "id": 4,
     "name": "Mark Wilson",
-    "image": "https://images.unsplash.com/photo-1552058544-f2b08422138a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=344&q=80",
+    "image": "https://images.unsplash.com/photo-1544168190-79c17527004f?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=334&q=80",
     "desc": "web Design",
     "medias": [
       { "id": 1, "url": "https://www.facebook.com", "icon": "facebook" },
-      { "id": 2, "url": "https://www.linkedin.com", "icon": "linkedin" }
+      { "id": 2, "url": "https://www.instagram.com", "icon": "instagram" },
+      { "id": 3, "url": "https://www.reddit.com", "icon": "reddit" },
+      { "id": 4, "url": "https://www.linkedin.com", "icon": "linkedin" }
     ]
   },
   {
@@ -47,9 +50,10 @@
     "image": "https://images.unsplash.com/photo-1544717305-2782549b5136?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=334&q=80",
     "desc": "Arts & Acting",
     "medias": [
-      { "id": 1, "url": "https://www.reddit.com", "icon": "reddit" },
-      { "id": 2, "url": "https://www.twitter.com", "icon": "twitter" },
-      { "id": 3, "url": "https://www.linkedin.com", "icon": "linkedin" }
+      { "id": 1, "url": "https://www.pinterest.com", "icon": "pinterest" },
+      { "id": 2, "url": "https://www.instagram.com", "icon": "instagram" },
+      { "id": 3, "url": "https://www.linkedin.com", "icon": "linkedin" },
+      { "id": 4, "url": "https://www.youtube.com", "icon": "youtube" }
     ]
   },
   {
@@ -59,7 +63,9 @@
     "desc": "Python and Machine Learning",
     "medias": [
       { "id": 1, "url": "https://www.twitter.com", "icon": "twitter" },
-      { "id": 2, "url": "https://www.linkedin.com", "icon": "linkedin" }
+      { "id": 2, "url": "https://www.linkedin.com", "icon": "linkedin" },
+      { "id": 3, "url": "https://www.reddit.com", "icon": "reddit" },
+      { "id": 4, "url": "https://www.youtube.com", "icon": "youtube" }
     ]
   },
   {
@@ -69,8 +75,8 @@
     "desc": "Data Analysis",
     "medias": [
       { "id": 1, "url": "https://www.reddit.com", "icon": "reddit" },
-      { "id": 1, "url": "https://www.facebook.com", "icon": "facebook" },
-      { "id": 2, "url": "https://www.twitter.com", "icon": "twitter" }
+      { "id": 2, "url": "https://www.facebook.com", "icon": "facebook" },
+      { "id": 3, "url": "https://www.twitter.com", "icon": "twitter" }
     ]
   },
   {
@@ -80,8 +86,8 @@
     "desc": "Herbalist & selft improvement",
     "medias": [
       { "id": 1, "url": "https://www.facebook.com", "icon": "facebook" },
-      { "id": 2, "url": "https://www.linkedin.com", "icon": "linkedin" },
-      { "id": 2, "url": "https://www.instagram.com", "icon": "instagram" }
+      { "id": 2, "url": "https://www.youtube.com", "icon": "youtube" },
+      { "id": 3, "url": "https://www.instagram.com", "icon": "instagram" }
     ]
   },
   {
@@ -91,8 +97,7 @@
     "desc": "Data Scientist",
     "medias": [
       { "id": 1, "url": "https://www.facebook.com", "icon": "facebook" },
-      { "id": 2, "url": "https://www.linkedin.com", "icon": "linkedin" },
-      { "id": 2, "url": "https://www.instagram.com", "icon": "instagram" }
+      { "id": 2, "url": "https://www.linkedin.com", "icon": "linkedin" }
     ]
   },
   {
@@ -102,8 +107,8 @@
     "desc": "Language Teacher",
     "medias": [
       { "id": 1, "url": "https://www.facebook.com", "icon": "facebook" },
-      { "id": 2, "url": "https://www.linkedin.com", "icon": "linkedin" },
-      { "id": 2, "url": "https://www.instagram.com", "icon": "instagram" }
+      { "id": 2, "url": "https://www.youtube.com", "icon": "youtube" },
+      { "id": 3, "url": "https://www.instagram.com", "icon": "instagram" }
     ]
   },
   {
@@ -114,7 +119,7 @@
     "medias": [
       { "id": 1, "url": "https://www.reddit.com", "icon": "reddit" },
       { "id": 2, "url": "https://www.linkedin.com", "icon": "linkedin" },
-      { "id": 2, "url": "https://www.youtube.com", "icon": "youtube" }
+      { "id": 3, "url": "https://www.youtube.com", "icon": "youtube" }
     ]
   }
 ]
