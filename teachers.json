@@ -1,0 +1,120 @@
+[
+  {
+    "id": 1,
+    "name": "Nicola Chodan",
+    "image": "https://images.unsplash.com/photo-1588186064732-a36fbfdc2323?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=333&q=80",
+    "desc": "French Teacher",
+    "medias": [
+      { "id": 1, "url": "https://www.reddit.com", "icon": "reddit" },
+      { "id": 2, "url": "https://www.twitter.com", "icon": "twitter" },
+      { "id": 3, "url": "https://www.linkedin.com", "icon": "linkedin" }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Andrew Berli",
+    "image": "https://images.unsplash.com/photo-1605688556358-3e0042bc578b?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80",
+    "desc": "web development",
+    "medias": [
+      { "id": 1, "url": "https://www.twitter.com", "icon": "twitter" },
+      { "id": 2, "url": "https://www.linkedin.com", "icon": "linkedin" }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Jessie Catarina",
+    "image": "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
+    "desc": "web development",
+    "medias": [
+      { "id": 1, "url": "https://www.facebook.com", "icon": "facebook" },
+      { "id": 2, "url": "https://www.twitter.com", "icon": "twitter" },
+      { "id": 3, "url": "https://www.instagram.com", "icon": "instagram" }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Mark Wilson",
+    "image": "https://images.unsplash.com/photo-1552058544-f2b08422138a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=344&q=80",
+    "desc": "web Design",
+    "medias": [
+      { "id": 1, "url": "https://www.facebook.com", "icon": "facebook" },
+      { "id": 2, "url": "https://www.linkedin.com", "icon": "linkedin" }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Angel Belarine",
+    "image": "https://images.unsplash.com/photo-1544717305-2782549b5136?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=334&q=80",
+    "desc": "Arts & Acting",
+    "medias": [
+      { "id": 1, "url": "https://www.reddit.com", "icon": "reddit" },
+      { "id": 2, "url": "https://www.twitter.com", "icon": "twitter" },
+      { "id": 3, "url": "https://www.linkedin.com", "icon": "linkedin" }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Christina Florence",
+    "image": "https://images.unsplash.com/photo-1573496799652-408c2ac9fe98?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=750&q=80",
+    "desc": "Python and Machine Learning",
+    "medias": [
+      { "id": 1, "url": "https://www.twitter.com", "icon": "twitter" },
+      { "id": 2, "url": "https://www.linkedin.com", "icon": "linkedin" }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Usman Yousaf",
+    "image": "https://images.unsplash.com/photo-1602133187081-4874fdbd555c?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=750&q=80",
+    "desc": "Data Analysis",
+    "medias": [
+      { "id": 1, "url": "https://www.reddit.com", "icon": "reddit" },
+      { "id": 1, "url": "https://www.facebook.com", "icon": "facebook" },
+      { "id": 2, "url": "https://www.twitter.com", "icon": "twitter" }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Nida Chang",
+    "image": "https://images.unsplash.com/photo-1570338652597-a6a2b7bcaf1b?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=333&q=80",
+    "desc": "Herbalist & selft improvement",
+    "medias": [
+      { "id": 1, "url": "https://www.facebook.com", "icon": "facebook" },
+      { "id": 2, "url": "https://www.linkedin.com", "icon": "linkedin" },
+      { "id": 2, "url": "https://www.instagram.com", "icon": "instagram" }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Jakayla Toney",
+    "image": "https://images.unsplash.com/photo-1608403689838-a9014243d151?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=334&q=80",
+    "desc": "Data Scientist",
+    "medias": [
+      { "id": 1, "url": "https://www.facebook.com", "icon": "facebook" },
+      { "id": 2, "url": "https://www.linkedin.com", "icon": "linkedin" },
+      { "id": 2, "url": "https://www.instagram.com", "icon": "instagram" }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Shipman Crose",
+    "image": "https://images.unsplash.com/photo-1562788869-4ed32648eb72?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=752&q=80",
+    "desc": "Language Teacher",
+    "medias": [
+      { "id": 1, "url": "https://www.facebook.com", "icon": "facebook" },
+      { "id": 2, "url": "https://www.linkedin.com", "icon": "linkedin" },
+      { "id": 2, "url": "https://www.instagram.com", "icon": "instagram" }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Nadia Ausman",
+    "image": "https://images.unsplash.com/photo-1551862253-418b05e65c41?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=750&q=80",
+    "desc": "Psycologist",
+    "medias": [
+      { "id": 1, "url": "https://www.reddit.com", "icon": "reddit" },
+      { "id": 2, "url": "https://www.linkedin.com", "icon": "linkedin" },
+      { "id": 2, "url": "https://www.youtube.com", "icon": "youtube" }
+    ]
+  }
+]
