@@ -10,7 +10,7 @@
     "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vitae, fugit.",
     "teacher": {
       "name": "Mark Wilson",
-      "image": "https://images.unsplash.com/photo-1552058544-f2b08422138a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=344&q=80"
+      "image": "https://images.unsplash.com/photo-1544168190-79c17527004f?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=334&q=80"
     }
   },
   {
@@ -79,7 +79,7 @@
     "price": 22.99,
     "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vitae, fugit.",
     "teacher": {
-      "name": "Jakayla Toney Chang",
+      "name": "Jakayla Toney",
       "image": "https://images.unsplash.com/photo-1608403689838-a9014243d151?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=334&q=80"
     }
   },
@@ -150,7 +150,7 @@
     "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vitae, fugit.",
     "teacher": {
       "name": "Nicola Chodan",
-      "image": "https://images.unsplash.com/photo-1588186064732-a36fbfdc2323?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=333&q=80"
+      "image": "https://images.unsplash.com/photo-1607990283143-e81e7a2c9349?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=725&q=80"
     }
   },
   {
@@ -164,7 +164,7 @@
     "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vitae, fugit.",
     "teacher": {
       "name": "Nicola Chodan",
-      "image": "https://images.unsplash.com/photo-1588186064732-a36fbfdc2323?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=333&q=80"
+      "image": "https://images.unsplash.com/photo-1607990283143-e81e7a2c9349?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=725&q=80"
     }
   },
   {
@@ -178,7 +178,7 @@
     "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vitae, fugit.",
     "teacher": {
       "name": "Nicola Chodan",
-      "image": "https://images.unsplash.com/photo-1588186064732-a36fbfdc2323?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=333&q=80"
+      "image": "https://images.unsplash.com/photo-1607990283143-e81e7a2c9349?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=725&q=80"
     }
   },
   {
