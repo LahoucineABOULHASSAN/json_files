@@ -72,7 +72,7 @@
   {
     "id": 6,
     "title": "Data Science Course 2021",
-    "img": "https://images.pexels.com/photos/669615/pexels-photo-669615.jpeg?w=4&h=4&fit=crop",
+    "img": "https://images.pexels.com/photos/669615/pexels-photo-669615.jpeg",
     "start": "11/03/2021",
     "duration": 30,
     "premium": true,
@@ -128,7 +128,7 @@
   {
     "id": 10,
     "title": "Learn Spanish Language",
-    "img": "https://images.pexels.com/photos/5409047/pexels-photo-5409047.jpeg?w=4&h=4&fit=crop",
+    "img": "https://images.pexels.com/photos/5409047/pexels-photo-5409047.jpeg",
     "start": "01/05/2021",
     "duration": 30,
     "premium": true,
