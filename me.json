@@ -1,0 +1,117 @@
+{
+  "name": "Lahoucine Aboulhassan",
+  "avatar": "https://firebasestorage.googleapis.com/v0/b/vueportfolioalbum.appspot.com/o/me%2Fme.jpg?alt=media&token=ed102407-f496-4ee4-a87a-9d8304886fc6",
+  "profession": "frontend web developer",
+  "bio": "Hello World! I am a front-end web developer. I hope you check my works and help me with your advice and notes. Thank you :)",
+  "contact_infos": {
+    "phone1": "(+212) 708018736",
+    "phone2": "(+212) 700191477",
+    "email1": "em.aboulhassan@gmail.com",
+    "email2": "mr.aboulhassan@gmail.com",
+    "address": "DR TIN CHEIKH BRAHIM INCHADEN CHT AIT BAHA , 80272"
+  },
+  "diploms": [
+    {
+      "diplom": "License of fundamental studies - bac+3",
+      "school": "Sciences Faculty, Ibnz Zohr Agadir",
+      "link": "http://www.fsa.ac.ma/",
+      "date": 2018,
+      "desc": "License of fundamental studies, a certificate in mathematical and computer science. from the science faculty of the university 'Ibn Zohr' located in Agadir city."
+    },
+    {
+      "diplom": "General university studies diploma - bac+2",
+      "school": "Sciences Faculty, Ibnz Zohr Agadir",
+      "link": "http://www.fsa.ac.ma/",
+      "date": 2017,
+      "desc": "General university studies diploma, a certificate in mathematics and computer science. of the Faculty of Sciences of the University 'Ibn Zohr' located in the city of Agadir"
+    },
+    {
+      "diplom": "baccalaureate Degree",
+      "school": "High School, Aljoulane Biougra",
+      "link": null,
+      "date": 2014,
+      "desc": "baccalaureate, a certificate in mathematics -A-. from the high school of 'Al joulane' located in the city of Biougra."
+    },
+    {
+      "diplom": "FullStack Web Developer",
+      "school": "Udacity",
+      "link": "https://www.udacity.com/",
+      "date": 2020,
+      "desc": "Nanodegree program of the Udacity online course website. a full stack web development certificate."
+    }
+  ],
+  "experiences": [
+    {
+      "job": "Worker",
+      "company": "Matysha Nersery Garden, Biougra",
+      "date": "15-01-2019 to 15-08-2019",
+      "desc": "I know this has nothing to do with web development, but that's the only experience I've had, for now, Hopefully, in the future, there will be more. So It's a nursery garden of tomatoes, it was a job that I tend to work every summer vacation since my first year in high school 2011, I learned many things from it about plants and also about how to work with groups and many other things. it was a nice experience."
+    }
+  ],
+  "certificates": [
+    {
+      "id": "1HG4V276FYVEJFDV823748GBF",
+      "src": "https://firebasestorage.googleapis.com/v0/b/vueportfolioalbum.appspot.com/o/me%2FCertificates-udacity-nanodegree-fullstack.png?alt=media&token=705ce42b-a79d-4421-9a15-9f54ac55d949",
+      "alt": "https://www.udacity.com/_Udacity, Nanodegree certificate - Fullstack"
+    },
+    {
+      "id": "2HG4V276FYVEJFDV823748GB4",
+      "src": "https://firebasestorage.googleapis.com/v0/b/vueportfolioalbum.appspot.com/o/me%2FCertificates-udacity-of-Complitation-FullStack.png?alt=media&token=d3f400ac-155b-4b8a-9a24-f614d352c3c8",
+      "alt": "https://www.udacity.com/_Udacity, Certificate of complitation - FullStack"
+    },
+    {
+      "id": "3HG4V276FYVEJFDV823748GB1",
+      "src": "https://firebasestorage.googleapis.com/v0/b/vueportfolioalbum.appspot.com/o/me%2FCertificates-udacity-of-Participation-FullStack.png?alt=media&token=af9ec4bb-155a-476a-b947-1893d8b19284",
+      "alt": "https://www.udacity.com/_Udacity, Certificate of participation - FullStack"
+    },
+    {
+      "id": "9HG4V276FYVEJFDV823748GB4",
+      "src": "https://firebasestorage.googleapis.com/v0/b/vueportfolioalbum.appspot.com/o/me%2FCertificates-udacity-of-Participation-FrontEnd.png?alt=media&token=f0a107f6-feb2-48d0-8d99-3163f17a3a41",
+      "alt": "https://www.udacity.com/_Udacity, Certificate of participation - FrontEnd"
+    },
+    {
+      "id": "5HG4V276FYVEJFDV823748GB9",
+      "src": "https://firebasestorage.googleapis.com/v0/b/vueportfolioalbum.appspot.com/o/me%2FCertificates-attestation-suivi-course-v1-inria.png?alt=media&token=30964ae8-50fd-447b-9559-17b080578a2f",
+      "alt": "https://www.fun-mooc.fr/dashboard_INRIA & FUN, Certificate of achievement - Introduction to web of linked data"
+    },
+    {
+      "id": "HG4V276FYVEJFDV823748GB55",
+      "src": "https://firebasestorage.googleapis.com/v0/b/vueportfolioalbum.appspot.com/o/me%2FCertificates-basic-english-pre-intermediate-of-achievement.png?alt=media&token=34824515-db58-47e5-93f1-c13e454ed237",
+      "alt": "https://www.futurelearn.com/_Future Learn, Certificate of achievement - Basic English pre-intermediate"
+    },
+    {
+      "id": "HG4V276FYVEJFDV823748GB87",
+      "src": "https://firebasestorage.googleapis.com/v0/b/vueportfolioalbum.appspot.com/o/me%2FCertificates-IbnZohr-LEF.png?alt=media&token=22e75e6b-e620-43ce-a1dc-32c444eea161",
+      "alt": "http://www.fsa.ac.ma/_Ibn Zohr, Licence of fandemontale Edecution - computer science"
+    }
+  ],
+  "skills": [
+    { "skill": "Html5", "percentage": 95, "icon": "html5" },
+    { "skill": "Css3", "percentage": 85, "icon": "css3 alternate" },
+    { "skill": "Javascript", "percentage": 55, "icon": "js" },
+    { "skill": "ReactJS", "percentage": 55, "icon": "react" },
+    { "skill": "VueJs", "percentage": 45, "icon": "vuejs" },
+    { "skill": "Git", "percentage": 80, "icon": "git square" },
+    { "skill": "Python", "percentage": 16, "icon": "python" },
+    { "skill": "Postgres", "percentage": 16, "icon": "database" },
+    { "skill": "Bootstrap", "percentage": 63, "icon": "bimobject" }
+  ],
+  "sc_medias": [
+    { "site": "github", "src": "https://github.com/LahoucineABOULHASSAN" },
+    { "site": "telegram", "src": "https://t.me/my_tg_id" },
+    {
+      "site": "linkedin",
+      "src": "https://www.linkedin.com/in/lahoucineaboulhassan"
+    },
+    { "site": "instagram", "src": "https://www.instagram.com/my_in_id/" },
+    {
+      "site": "portfolio",
+      "src": "https://lahoucineaboulhassan.github.io/portfolio"
+    }
+  ],
+  "languages": [
+    { "lang": "Arabic", "percentage": 100 },
+    { "lang": "English", "percentage": 67 },
+    { "lang": "French", "percentage": 50 }
+  ]
+}
