@@ -1,6 +1,11 @@
 {
   "name": "Lahoucine Aboulhassan",
   "avatar": "https://firebasestorage.googleapis.com/v0/b/vueportfolioalbum.appspot.com/o/me%2Fme.jpg?alt=media&token=ed102407-f496-4ee4-a87a-9d8304886fc6",
+  "portfolio":"https://lahoucineaboulhassan.github.io/portfolio",
+  "about_me":[
+      "There live the blind texts far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in bookmarksgrove there live the blind texts far from the countries.",
+      " Far far away, behind the word mountains, Quos quia provident consequuntur culpa facere ratione maxime commodi voluptates id repellat velit eaque aspernatur expedita. Possimus itaque adipisci there live the blind texts from the countries Vokalia and Consonantia, there live the blind texts. Quos quia provident consequuntur culpa facere ratione maxime commodi voluptates id repellat velit eaque aspernatur expedita. Possimus itaque adipisci.",
+    ],
   "profession": "frontend web developer",
   "bio": "Hello World! I am a front-end web developer. I hope you check my works and help me with your advice and notes. Thank you :)",
   "contact_infos": {
