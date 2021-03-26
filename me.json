@@ -103,16 +103,21 @@
     { "skill": "Bootstrap", "percentage": 63, "icon": "bimobject" }
   ],
   "sc_medias": [
-    { "site": "github", "src": "https://github.com/LahoucineABOULHASSAN" },
-    { "site": "telegram", "src": "https://t.me/my_tg_id" },
+    { 
+      "site": "github",
+      "src": "https://github.com/LahoucineABOULHASSAN"
+    },
+    { 
+      "site": "telegram",
+      "src": "https://t.me/my_tg_id"
+    },
     {
       "site": "linkedin",
       "src": "https://www.linkedin.com/in/lahoucineaboulhassan"
     },
-    { "site": "instagram", "src": "https://www.instagram.com/my_in_id/" },
-    {
-      "site": "portfolio",
-      "src": "https://lahoucineaboulhassan.github.io/portfolio"
+    { 
+      "site": "instagram", 
+      "src": "https://www.instagram.com/my_in_id/"
     }
   ],
   "languages": [
