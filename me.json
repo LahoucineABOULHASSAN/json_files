@@ -1,7 +1,7 @@
 {
   "name": "Lahoucine Aboulhassan",
   "avatar": "https://firebasestorage.googleapis.com/v0/b/vueportfolioalbum.appspot.com/o/me%2Fme.jpg?alt=media&token=ed102407-f496-4ee4-a87a-9d8304886fc6",
-  "portfolio": "https://lahoucineaboulhassan.github.io/portfolio",
+  "portfolio": "https://vueportfolioapp.netlify.app/",
   "profession": "frontend web developer",
   "bio": "Hello World! I am a front-end web developer. I hope you check my works and help me with your advice and notes. Thank you :)",
   "about_me": [
@@ -104,11 +104,11 @@
     { "skill": "Bootstrap", "percentage": 63, "icon": "bimobject" }
   ],
   "sc_medias": [
-    { 
+    {
       "site": "github",
       "src": "https://github.com/LahoucineABOULHASSAN"
     },
-    { 
+    {
       "site": "telegram",
       "src": "https://t.me/my_tg_id"
     },
@@ -116,8 +116,8 @@
       "site": "linkedin",
       "src": "https://www.linkedin.com/in/lahoucineaboulhassan"
     },
-    { 
-      "site": "instagram", 
+    {
+      "site": "instagram",
       "src": "https://www.instagram.com/my_in_id/"
     }
   ],
