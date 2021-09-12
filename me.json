@@ -100,12 +100,12 @@
     { "skill": "Html5", "percentage": 95, "icon": "html5" },
     { "skill": "Css3", "percentage": 85, "icon": "css3 alternate" },
     { "skill": "Javascript", "percentage": 55, "icon": "js" },
-    { "skill": "ReactJS NextJS", "percentage": 55, "icon": "react" },
+    { "skill": "ReactJS/nNextJS", "percentage": 55, "icon": "react" },
     { "skill": "VueJs", "percentage": 45, "icon": "vuejs" },
     { "skill": "Git", "percentage": 80, "icon": "git square" },
     { "skill": "Python", "percentage": 16, "icon": "python" },
     { "skill": "Postgres", "percentage": 16, "icon": "database" },
-    { "skill": "Bootstrap Tailwind", "percentage": 63, "icon": "bimobject" }
+    { "skill": "Bootstrap/nTailwind", "percentage": 63, "icon": "bimobject" }
   ],
   "sc_medias": [
     {
